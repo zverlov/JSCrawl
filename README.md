@@ -7,6 +7,7 @@ Functionality:
 Crawler goes to google and searches for (a concatenation) of the search words (i.e. search string).
 For each of the google results crawler looks for java script libraries (i.e.: .js files) and stores the nubmer of their occurences.
 Crawler returns a top X (currently top 5) of most frequently used java script libraries.
+
 Assumptions and thoughts:
 
 My assumption is that any .js file that is referenced on a website is a Java script library.
