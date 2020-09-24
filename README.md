@@ -1,6 +1,5 @@
-Usage: "JSCrawler searchword1 searchword2 searchwordN"
-
-Example: "JSCrawler computer games"
+Installation with Maven: mvn package
+Usage: java -jar target/JSCrawler-0.0.1-SNAPSHOT.jar searchword1 serachword2 etc
 
 Functionality:
 
