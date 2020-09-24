@@ -140,7 +140,7 @@ public class SpiderPig {
 	}
 	
 	
-	
+	/* Custom @{Comparator} for the @{PriorityQueue}. */
 	class JSLibComparator implements Comparator<Map.Entry<String, Integer>>{
 
 		public int compare(Entry<String, Integer> o1, Entry<String, Integer> o2) {
