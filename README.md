@@ -1,3 +1,5 @@
+**Description:** A simple WebCrawler, that gets a set of google search words as input and looks for used JS Libraries in the corresponding google results. Currently it prints out the top 5 most used JS Libraries as output.
+
 **Installation with Maven:** `mvn package`
 
 **Usage:** `java -jar target/JSCrawler-0.0.1-SNAPSHOT.jar searchword1 serachword2 etc`
